@@ -1,0 +1,27 @@
+h1 {
+    color: Orange;
+    
+}
+
+a {
+    background-color: green;
+    color: white;
+    
+}
+
+ul {
+    font-weight: bold;
+}
+
+ol {
+    font-style: italic;
+}
+
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
